@@ -1,0 +1,22 @@
+{
+    "uz": {
+        "Navbar": [
+            {
+                "title": "Qulayliklar",
+                "link": "#qulayliklar"   
+            },
+            {
+                "title": "Kurslar",
+                "link": "#main-courses"
+            },
+            {
+                "title": "Location",
+                "link": "#location"
+            },
+            {
+                "title": "LIFE ACADEMY",
+                "link": "#LIFE ACADEMY"
+            }
+        ]
+    }
+}
