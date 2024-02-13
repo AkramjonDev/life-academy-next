@@ -162,7 +162,7 @@ function Navbar() {
           >
             {theme === themes.light ? <FaMoon /> : <FaSun />}
           </button>
-          <button className="btn h-[48px] w-[48px] text-[#141024] font-semibold text-xl">UZ</button>
+          {/* <button className="btn h-[48px] w-[48px] text-[#141024] font-semibold text-xl">UZ</button> */}
         </div>
       </nav>
     </div>
